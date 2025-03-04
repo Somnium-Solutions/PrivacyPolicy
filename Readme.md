@@ -4,6 +4,7 @@ Effective Date: March 3 2025
 At Somnium IT Solutions, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services. Please read this policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the site.
 
 1. Information We Collect
+   
 1.1 Personal Information
 We may collect personal information that you voluntarily provide to us when you:
 
@@ -17,6 +18,7 @@ Your name
 Email address
 Phone number
 Any other information you choose to provide
+
 1.2 Non-Personal Information
 We also collect non-personal information automatically when you visit our website, such as:
 
@@ -26,6 +28,7 @@ IP address
 Pages visited
 Time and date of your visit
 Other technical data
+
 2. How We Use Your Information
 We use the information we collect for various purposes, including:
 
@@ -37,6 +40,7 @@ To communicate with you:
 Sending updates, marketing communications, or responding to your inquiries.
 For legal and security purposes:
 Monitoring and preventing potential fraud, abuse, or other unlawful activities.
+
 3. Disclosure of Your Information
 We may share your information in the following situations:
 
@@ -46,6 +50,7 @@ For legal reasons:
 If required by law, we may disclose your information to comply with legal obligations or to protect our rights.
 Business Transfers:
 In the event of a merger, acquisition, or sale of assets, your information may be transferred.
+
 4. Cookies and Tracking Technologies
 Our website uses cookies and similar tracking technologies to track activity and store certain information. Cookies help us:
 
@@ -77,7 +82,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
 Somnium IT Solutions
-Email: [Insert Email Address]
-Phone: [Insert Phone Number]
-Address: [Insert Physical Address]
+Email: somnium.itservices@gmail.com
 
